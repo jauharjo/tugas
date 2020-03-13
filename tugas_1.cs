@@ -10,26 +10,29 @@ namespace kalkulator
     {
         static void Main(string[] args)
         {
-            
             float hasil;
 
             Console.Title = "Ini Kalkulator";
 
-            Console.WriteLine("Pilih Menu Kalkulator :\n");
+            Console.WriteLine("==========================");
+            Console.WriteLine("Pilih Menu Kalkulator :");
+            Console.WriteLine("==========================\n");
             Console.WriteLine("1. Penjumlahan");
             Console.WriteLine("2. Pengurangan");
             Console.WriteLine("3. Perkalian");
             Console.WriteLine("4. Pembagian");
-            Console.WriteLine("\nInput nomor menu [1-4] :");
+            Console.WriteLine("\n==========================");
+            Console.WriteLine("Input nomor menu [1-4] :");
             int menu = int.Parse(Console.In.ReadLine());
 
+            //input
             Console.Write("\nInputkan nilai a =");
             int a = int.Parse(Console.ReadLine());
             Console.Write("Inputkan nilai b =");
             int b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
-
+            //menu
             if ( menu == 1) {
                     hasil = a + b;
                     Console.WriteLine("Hasil Penjumlahan " + a + " + " + b + " = " + Penjumlahan(a, b));
@@ -54,13 +57,16 @@ namespace kalkulator
             else if ( menu == 4) {
                     hasil = a / b;
                     Console.WriteLine("Hasil Pembagian {0} / {1} = {2}", a, b, Pembagian(a, b));
-                    Console.WriteLine("\nTekan sembarang tombol untuk keluar");
+                    Console.WriteLine("Tekan sembarang tombol untuk keluar");
                     Console.ReadKey();
             }
-
+            else {
+                    Console.WriteLine("Maaf, Menu yang kamu pilih tidak tersedia");
+            }
 
         }
 
+        //fungsi
         static int Penjumlahan(int a, int b)
         {
             return a + b;
