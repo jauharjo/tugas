@@ -1,0 +1,11 @@
+D:\fika\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.exe
+D:\fika\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.deps.json
+D:\fika\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.runtimeconfig.json
+D:\fika\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.runtimeconfig.dev.json
+D:\fika\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.dll
+D:\fika\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.pdb
+D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.csprojAssemblyReference.cache
+D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.AssemblyInfoInputs.cache
+D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.AssemblyInfo.cs
+D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.dll
+D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.pdb
