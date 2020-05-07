@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\62852\\.nuget\\packages\\": {}
+    "C:\\Users\\JOH.ar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fika\\LatihanInheritance\\LatihanInheritance\\LatihanInheritance.csproj",
+      "projectUniqueName": "E:\\praktikum\\03\\LatihanInheritance\\LatihanInheritance.csproj",
       "projectName": "LatihanInheritance",
-      "projectPath": "D:\\fika\\LatihanInheritance\\LatihanInheritance\\LatihanInheritance.csproj",
-      "packagesPath": "C:\\Users\\62852\\.nuget\\packages\\",
-      "outputPath": "D:\\fika\\LatihanInheritance\\LatihanInheritance\\obj\\",
+      "projectPath": "E:\\praktikum\\03\\LatihanInheritance\\LatihanInheritance.csproj",
+      "packagesPath": "C:\\Users\\JOH.ar\\.nuget\\packages\\",
+      "outputPath": "E:\\praktikum\\03\\LatihanInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\62852\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JOH.ar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,3 +9,16 @@ D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInh
 D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.AssemblyInfo.cs
 D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.dll
 D:\fika\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.pdb
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.csprojAssemblyReference.cache
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.csproj.CoreCompileInputs.cache
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.AssemblyInfoInputs.cache
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.AssemblyInfo.cs
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.dll
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.pdb
+E:\praktikum\03\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.exe
+E:\praktikum\03\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.deps.json
+E:\praktikum\03\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.runtimeconfig.json
+E:\praktikum\03\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.runtimeconfig.dev.json
+E:\praktikum\03\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.dll
+E:\praktikum\03\LatihanInheritance\bin\Debug\netcoreapp3.0\LatihanInheritance.pdb
+E:\praktikum\03\LatihanInheritance\obj\Debug\netcoreapp3.0\LatihanInheritance.genruntimeconfig.cache
